@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4fdf98485de8eed40bd7138ebf4691ae
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Boss Warning.unity
+    guid: 49c9623f6f8c5ec40826e13c67a95503
+  - enabled: 1
+    path: Assets/Scenes/Boss 1.unity
+    guid: cb2bc583969ffcf4a82e69da9c931a6c
+  - enabled: 1
+    path: Assets/Scenes/Survival.unity
+    guid: b75d119ee71395544899551d7e408ea2
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: f4f0bba1e9b86c74aba12e246c473587
+  - enabled: 1
+    path: Assets/Scenes/LevelClear.unity
+    guid: 06305f82935e0fb46aa7b1236fc50ac7
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 48468257cfa27bf43bc147a96278e27c, type: 2}
